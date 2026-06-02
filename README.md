@@ -1,4 +1,6 @@
 <p align=center> ts is a fork of yungDoom's 2016 source repo and its VERY outdated </p>
+<p align=center> please don't ask me how to build it; i don't know EITHER!! </p>
+<p align=center> may be missing some Contribs libs </p>
 
 <h2 align="center"> Features </h2>
 
